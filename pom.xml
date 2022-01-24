@@ -5,6 +5,7 @@
 	<groupId>1</groupId>
 	<artifactId>1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	 <name>1</name>
 	<url>http://www.example.com</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
